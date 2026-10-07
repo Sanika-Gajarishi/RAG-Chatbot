@@ -375,3 +375,10 @@ streamlit run ui/app.py
 
 **Sanika Gajarishi**
 
+- GitHub: https://github.com/Sanika-Gajarishi
+---
+
+# License
+
+This project is developed for educational, learning, and portfolio purposes.
+
